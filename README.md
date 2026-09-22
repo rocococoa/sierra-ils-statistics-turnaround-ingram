@@ -5,6 +5,13 @@
 ## Summary
 This automated report captures performance metrics for the vendor Ingram, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter.
 
+## Features and Deliverables
+
+**Automated Email:**
+
+<img width="991" height="593" alt="Quarterly Ingram Turnaround" src="https://github.com/user-attachments/assets/ff7118a0-5f0b-4f65-ab8f-1f54b39638ca" />
+
+
 ## Data Pipeline Architecture
 This repository features an automated data pipeline that generates, formats, and distributes Excel reports via email. The system integrates Windows Task Scheduler, a Batch script, SQL, and Python to handle the end-to-end workflow without manual intervention. The automated process is fully productionized within a Windows environment.
 
