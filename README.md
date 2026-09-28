@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Summary
-This automated report captures performance metrics for the vendor Ingram, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter.
+**What it does:** This automated report captures performance metrics for the vendor Ingram, specifically tracking fulfillment turnaround times from order placement to delivery for the previous quarter.
+
+**Impact:** The delivered data points are added to a vender turnaround time tracker, which is used to monitor and track performance trends of our collection vendors.
 
 ## Features and Deliverables
 
@@ -14,6 +16,9 @@ This automated report captures performance metrics for the vendor Ingram, specif
 **Attached Excel Report:**
 
 <img width="671" height="282" alt="Turnaround-Ingram" src="https://github.com/user-attachments/assets/f5fc4055-3853-4775-b583-92a06551a790" />
+
+
+Collection vendor quarterly turnaround times are logged in a tracker to monitor performance trends over time.
 
 **Vendor Turnaround Tracker:**
 
